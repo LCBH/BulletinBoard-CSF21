@@ -1,3 +1,5 @@
+This repository includes the companion technical report and the TLA+ proofs for the paper "Fixing the Achilles Heel of E-Voting: The Bulletin Board" published at IEEE Computer Security Foundations 2021. 
+
 # Companion technical report
 The extended version of the paper can be found as an [IACR preprint](https://eprint.iacr.org/2020/109).
 
